@@ -3,10 +3,6 @@
 👨‍💻 Desenvolvedor Backend Sênior com forte foco em arquitetura de software, lógica de programação e soluções para e-commerce.
 🎮 Nos momentos livres, me aventuro no desenvolvimento de jogos indie, criando protótipos 2D e estudando mecânicas para futuros projetos Metroidvania.
 
-### 🔭 O que estou construindo no momento
-* Desenvolvendo o **PerHub**, uma aplicação de gestão pessoal com controle de rotinas de treino, metas e backlog de jogos.
-* Criando protótipos de jogos 2D top-down e mecânicas de interação estilo escape room.
-
 ### 🛠️ Tecnologias e Ferramentas
 
 **Desenvolvimento Web:**
