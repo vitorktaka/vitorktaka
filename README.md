@@ -5,8 +5,6 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-### 🛠️ Tecnologias e Ferramentas
-
 **No Trabalho (E-commerce / Backend):**
 ![PHP](https://img.shields.io/badge/PHP_7.4+-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL_8.0-005C84?style=for-the-badge&logo=mysql&logoColor=white)
