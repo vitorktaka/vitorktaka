@@ -1,6 +1,6 @@
 # Olá, eu sou o Vitor takahashi! 👋
 
-👨‍💻 Desenvolvedor Backend Sênior com forte foco em arquitetura de software, lógica de programação e soluções para e-commerce.
+👨‍💻 Desenvolvedor Backend júnior com forte foco em arquitetura de software, lógica de programação e soluções para e-commerce.
 🎮 Nos momentos livres, me aventuro no desenvolvimento de jogos indie, criando protótipos 2D e estudando mecânicas para futuros projetos Metroidvania.
 
 ### 🛠️ Tecnologias e Ferramentas
